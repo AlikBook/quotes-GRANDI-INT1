@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: WEISTROFFER Samuel L1 INT 1
 
 ## Fork urls
-- `contributor-1`: 
-- `contributor-2`: 
-- `contributor-3`: 
+- `contributor-1`: https://github.com/ANDR3LAXE/quotes-GRANDI-INT1
+- `contributor-2`: https://github.com/Aurelien-NEVEUX/quotes-GRANDI-INT1
+- `contributor-3`: https://github.com/SamuelW05/quotes-GRANDI-INT1
