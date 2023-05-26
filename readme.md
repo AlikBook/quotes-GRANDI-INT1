@@ -1,3 +1,5 @@
+We added to the readme.mc the urls of the forst of each contributor in the main branch.
+
 # Programming Quote Generator
 
 A python program that generates programming quotes and jokes.
